@@ -8,7 +8,7 @@
 # python <filename>.py
 
 # Write a python script that will print  out Hello World!
-
+print("Hello World")
 # Test your code: python -m Tests.test_level1
 def solution():
     return ("...")
